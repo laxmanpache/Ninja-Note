@@ -71,5 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-
+### npx json-server --watch .\db.json  --port 8080
+ this is use to start json server
 <!-- npx json-server --watch .\db.json  --port 8080 -->
